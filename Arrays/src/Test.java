@@ -12,5 +12,15 @@ public class Test {
         for (int anInt : intArray) {
             System.out.println(anInt);
         }
+
+        // get me number 7 from the array
+        int index = -1;
+        for (int i = 0; i < intArray.length; i++) {
+            if(intArray[i] == 7) {
+                index = i;
+                break;
+            }
+        }
+        System.out.println("index = " + index);
     }
 }
