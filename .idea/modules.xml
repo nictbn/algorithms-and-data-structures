@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/SelectionSort/SelectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/SortAlgorithms.iml" filepath="$PROJECT_DIR$/SortAlgorithms/SortAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithms-and-data-structures.iml" filepath="$PROJECT_DIR$/algorithms-and-data-structures.iml" />
