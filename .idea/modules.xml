@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/BubbleSort/BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/SelectionSort/SelectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/ShellSort/ShellSort.iml" />
