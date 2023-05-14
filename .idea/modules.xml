@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lists/ArrayLists/ArrayLists.iml" filepath="$PROJECT_DIR$/Lists/ArrayLists/ArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/BubbleSort/BubbleSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/Challenge1/Challenge1.iml" filepath="$PROJECT_DIR$/SortAlgorithms/Challenge1/Challenge1.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/CountingSort/CountingSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/CountingSort/CountingSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/JdkExample/JdkExample.iml" filepath="$PROJECT_DIR$/SortAlgorithms/JdkExample/JdkExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lists/Lists.iml" filepath="$PROJECT_DIR$/Lists/Lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/MergeSort/MergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/RadixSort/RadixSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/RadixSort/RadixSort.iml" />
