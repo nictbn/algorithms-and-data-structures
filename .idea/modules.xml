@@ -24,6 +24,8 @@
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/ShellSort/ShellSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/SinglyLinkedLists/SinglyLinkedLists.iml" filepath="$PROJECT_DIR$/Lists/SinglyLinkedLists/SinglyLinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/SortAlgorithms.iml" filepath="$PROJECT_DIR$/SortAlgorithms/SortAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/StackArrayImplementation/StackArrayImplementation.iml" filepath="$PROJECT_DIR$/Stacks/StackArrayImplementation/StackArrayImplementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/Vectors/Vectors.iml" filepath="$PROJECT_DIR$/Lists/Vectors/Vectors.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithms-and-data-structures.iml" filepath="$PROJECT_DIR$/algorithms-and-data-structures.iml" />
     </modules>
