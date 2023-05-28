@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/CountingSort/CountingSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/CountingSort/CountingSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/DoublyLinkedLists/DoublyLinkedLists.iml" filepath="$PROJECT_DIR$/Lists/DoublyLinkedLists/DoublyLinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTables/HashTables.iml" filepath="$PROJECT_DIR$/HashTables/HashTables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashTables/HashTablesChallenge1/HashTablesChallenge1.iml" filepath="$PROJECT_DIR$/HashTables/HashTablesChallenge1/HashTablesChallenge1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTables/JDKHashTables/JDKHashTables.iml" filepath="$PROJECT_DIR$/HashTables/JDKHashTables/JDKHashTables.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/JdkExample/JdkExample.iml" filepath="$PROJECT_DIR$/SortAlgorithms/JdkExample/JdkExample.iml" />
