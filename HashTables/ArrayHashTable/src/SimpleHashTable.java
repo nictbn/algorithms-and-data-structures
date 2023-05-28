@@ -1,5 +1,5 @@
 public class SimpleHashTable {
-    private final StoredEmployee[] hashtable;
+    private StoredEmployee[] hashtable;
 
     public SimpleHashTable() {
         hashtable = new StoredEmployee[10];
@@ -49,6 +49,13 @@ public class SimpleHashTable {
         }
         Employee employee = hashtable[hashedKey].employee;
         hashtable[hashedKey] = null;
+        StoredEmployee[] oldHashTable = hashtable;
+        hashtable = new StoredEmployee[oldHashTable.length];
+        for (int i = 0; i < oldHashTable.length; i++) {
+            if (oldHashTable[i] != null) {
+                put(oldHashTable[i].key, oldHashTable[i].employee);
+            }
+        }
         return employee;
     }
 
@@ -58,7 +65,6 @@ public class SimpleHashTable {
             return hashedKey;
         }
 
-
         int stopIndex = hashedKey;
         if (hashedKey == hashtable.length - 1) {
             hashedKey = 0;
@@ -66,14 +72,17 @@ public class SimpleHashTable {
             hashedKey++;
         }
 
-        while (hashedKey != stopIndex && (hashtable[hashedKey] == null || !hashtable[hashedKey].key.equals(key))) {
+        while (hashedKey != stopIndex &&
+                hashtable[hashedKey] != null &&
+                !hashtable[hashedKey].key.equals(key)) {
             hashedKey = (hashedKey + 1) % hashtable.length;
         }
 
-        if (stopIndex == hashedKey) {
-            return -1;
+        if (hashtable[hashedKey] != null &&
+                hashtable[hashedKey].key.equals(key)) {
+            return hashedKey;
         }
-        return hashedKey;
+        return -1;
     }
 
     public void printHashTable() {
