@@ -15,6 +15,12 @@ public class Main {
         intTree.traverseInOrder();
         System.out.println();
 
+        intTree.traversePreOrder();
+        System.out.println();
+
+        intTree.traversePostOrder();
+        System.out.println();
+
 //        System.out.println(intTree.get(27));
 //        System.out.println(intTree.get(17));
 //        System.out.println(intTree.get(8888));
