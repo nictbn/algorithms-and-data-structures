@@ -13,5 +13,6 @@ public class Main {
         ht.put("Smith", marySmith);
         ht.printHashTable();
         System.out.println("Retrieve key Wilson: " + ht.get("Wilson"));
+        System.out.println("Retrieve key Smith: " + ht.get("Smith"));
     }
 }
