@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Queues/ArrayQueue/ArrayQueue.iml" filepath="$PROJECT_DIR$/Queues/ArrayQueue/ArrayQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/BucketSort/BucketSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/BucketSort/BucketSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTables/ChainingHashTable/ChainingHashTable.iml" filepath="$PROJECT_DIR$/HashTables/ChainingHashTable/ChainingHashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/Challenge1/Challenge1.iml" filepath="$PROJECT_DIR$/SortAlgorithms/Challenge1/Challenge1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/Challenge1Lists/Challenge1Lists.iml" filepath="$PROJECT_DIR$/Lists/Challenge1Lists/Challenge1Lists.iml" />
