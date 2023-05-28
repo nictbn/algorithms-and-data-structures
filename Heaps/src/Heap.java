@@ -89,4 +89,11 @@ public class Heap {
         }
         System.out.println();
     }
+
+    public int peek() {
+        if (isEmpty()) {
+            throw new IndexOutOfBoundsException("Heap is empty");
+        }
+        return heap[0];
+    }
 }
