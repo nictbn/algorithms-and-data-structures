@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/HashTables/JDKHashTables/JDKHashTables.iml" filepath="$PROJECT_DIR$/HashTables/JDKHashTables/JDKHashTables.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/JdkExample/JdkExample.iml" filepath="$PROJECT_DIR$/SortAlgorithms/JdkExample/JdkExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/JdkLinkedLists/JdkLinkedLists.iml" filepath="$PROJECT_DIR$/Lists/JdkLinkedLists/JdkLinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchAlgorithms/LinearSearchAlgorithm/LinearSearchAlgorithm.iml" filepath="$PROJECT_DIR$/SearchAlgorithms/LinearSearchAlgorithm/LinearSearchAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/Lists.iml" filepath="$PROJECT_DIR$/Lists/Lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/MergeSort/MergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
@@ -31,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/RadixSort/RadixSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/RadixSort/RadixSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchAlgorithms/SearchAlgorithms.iml" filepath="$PROJECT_DIR$/SearchAlgorithms/SearchAlgorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/SelectionSort/SelectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/ShellSort/ShellSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/SinglyLinkedLists/SinglyLinkedLists.iml" filepath="$PROJECT_DIR$/Lists/SinglyLinkedLists/SinglyLinkedLists.iml" />
