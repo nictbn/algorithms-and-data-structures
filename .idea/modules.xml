@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HashTables/ArrayHashTable/ArrayHashTable.iml" filepath="$PROJECT_DIR$/HashTables/ArrayHashTable/ArrayHashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/ArrayLists/ArrayLists.iml" filepath="$PROJECT_DIR$/Lists/ArrayLists/ArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queues/ArrayQueue/ArrayQueue.iml" filepath="$PROJECT_DIR$/Queues/ArrayQueue/ArrayQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Queues/CircularQueue/CircularQueue.iml" filepath="$PROJECT_DIR$/Queues/CircularQueue/CircularQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/CountingSort/CountingSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/CountingSort/CountingSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/DoublyLinkedLists/DoublyLinkedLists.iml" filepath="$PROJECT_DIR$/Lists/DoublyLinkedLists/DoublyLinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashTables/HashTables.iml" filepath="$PROJECT_DIR$/HashTables/HashTables.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/JdkExample/JdkExample.iml" filepath="$PROJECT_DIR$/SortAlgorithms/JdkExample/JdkExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/JdkLinkedLists/JdkLinkedLists.iml" filepath="$PROJECT_DIR$/Lists/JdkLinkedLists/JdkLinkedLists.iml" />
