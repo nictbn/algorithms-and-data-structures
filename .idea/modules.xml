@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/Heaps/Heaps.iml" filepath="$PROJECT_DIR$/Heaps/Heaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/SortAlgorithms/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTables/JDKHashTables/JDKHashTables.iml" filepath="$PROJECT_DIR$/HashTables/JDKHashTables/JDKHashTables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heaps/JDKPriorityQueue/JDKPriorityQueue.iml" filepath="$PROJECT_DIR$/Heaps/JDKPriorityQueue/JDKPriorityQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortAlgorithms/JdkExample/JdkExample.iml" filepath="$PROJECT_DIR$/SortAlgorithms/JdkExample/JdkExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lists/JdkLinkedLists/JdkLinkedLists.iml" filepath="$PROJECT_DIR$/Lists/JdkLinkedLists/JdkLinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/SearchAlgorithms/LinearSearchAlgorithm/LinearSearchAlgorithm.iml" filepath="$PROJECT_DIR$/SearchAlgorithms/LinearSearchAlgorithm/LinearSearchAlgorithm.iml" />
